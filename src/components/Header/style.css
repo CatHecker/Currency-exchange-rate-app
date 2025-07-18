@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  width: 100%;
+  padding: 20px;
+  background-color:blueviolet;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2vw;
+  font-weight: bold;
+}

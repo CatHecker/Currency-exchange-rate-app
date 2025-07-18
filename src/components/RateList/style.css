@@ -1,0 +1,12 @@
+.currency {
+  display: flex;
+  justify-content: space-between;
+  background-color:blueviolet;
+  width: 95vw;
+  margin: 15px;
+  padding: 30px;
+  font-size: 2.5vw;
+  color: white;
+  border-radius: 25px;
+
+}
